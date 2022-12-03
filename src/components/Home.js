@@ -8,7 +8,11 @@ export default function Home() {
 <>
    
     <Header />
-    <img className='img' src={Image} />
+   <div className='intro'>
+   <img className='img' src={Image} />
+    <h1>Jayjeet Kumar But, Call me Jay</h1>
+    <p>Hi, I am a web3 developer</p>
+    </div> 
 </>
   )
 }
