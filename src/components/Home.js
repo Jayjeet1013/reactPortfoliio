@@ -5,14 +5,21 @@ import './Home.css'
 
 export default function Home() {
   return (
-<>
-   
-    <Header />
-   <div className='intro'>
-   <img className='img' src={Image} />
-    <h1>Jayjeet Kumar But, Call me Jay</h1>
-    <p>Hi, I am a web3 developer</p>
-    </div> 
+
+   <>
+    <Header />  
+    <img className='img' src={Image} />
+  
+    <div class="wrapper">
+    <div class="static-txt">I'm a</div>
+    <ul class="dynamic-txts">
+      <li><span>YouTuber</span></li>
+      <li><span>Designer</span></li>
+      <li><span>Developer</span></li>
+      <li><span>Freelancer</span></li>
+    </ul>
+  </div>
+
 </>
   )
 }
