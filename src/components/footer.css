@@ -1,9 +1,14 @@
-p{
+.footer{
   
-    position: fixed;
- 
+    list-style-type: none;
+ margin: 0%;
+ padding: 0%;
+    overflow: hidden;
+  
+ position: fixed;
+
   bottom: 0;
-  width: 100%;
+width: 100%;
   background-color: red;
   color: white;
   text-align: center;

@@ -10,14 +10,15 @@ export default function Home() {
    <>
     <Header />  
     <img className='img' alt='prop' src={Image} />
-  
  <h2>I am Jayjeet Kumar </h2>
  <h3>But, Call me Jay.</h3>
  <p>Trying to learn and explore web3</p>
  
+<Footer/>
 
- <Footer/>
 
-</>
+</> 
+
+
   )
 }
