@@ -17,13 +17,21 @@
   }
 
  h2{
-  margin-left: 749px;
-  
-   font-size: 30px;
+  margin-left: 449px;
+  font-style: oblique;
+   font-size: 35px;
  }
 
- h3,p{
+ h3{
+  font-style: oblique;
   margin-left: 750px;
-  font-size: larger;
+  font-size: 25px;
+ }
+
+ P{
+  margin-left: 890px;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 20px;
  }
 
