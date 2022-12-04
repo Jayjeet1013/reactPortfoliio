@@ -8,17 +8,14 @@ export default function Home() {
 
    <>
     <Header />  
-    <img className='img' src={Image} />
+    <img className='img' alt='prop' src={Image} />
   
-    <div class="wrapper">
-    <div class="static-txt">I'm a</div>
-    <ul class="dynamic-txts">
-      <li><span>YouTuber</span></li>
-      <li><span>Designer</span></li>
-      <li><span>Developer</span></li>
-      <li><span>Freelancer</span></li>
-    </ul>
-  </div>
+ <h2>I am Jayjeet Kumar </h2>
+ <h3>But, Call me Jay.</h3>
+ <p>Trying to learn and explore web3</p>
+ 
+
+ 
 
 </>
   )
