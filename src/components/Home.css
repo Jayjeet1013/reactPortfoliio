@@ -7,7 +7,7 @@
     border-radius: 303px;
     padding: 5px;
     width: 450px;
-    margin-top: 61px;
+    margin-top: 101px;
     margin-left: 692px;
     
   }
@@ -29,6 +29,7 @@
  }
 
  p{
+  margin-top: 40px;
   margin-left: 890px;
   font-weight: bold;
   font-style: oblique;

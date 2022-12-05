@@ -1,9 +1,14 @@
-.btnprojects{
-    margin-left: 450px;
-    border-radius: 10px;
-  font-size: 20px;
-}
 
 .h3pro{
-  margin-top: 343px;
+  margin-top: 200px;
+}
+
+.proj1{
+  
+  padding: 100px;
+}
+.proj1 .btnprojects{
+    
+    border-radius: 10px;
+  font-size: 20px;
 }
