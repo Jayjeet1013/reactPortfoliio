@@ -3,7 +3,9 @@ import Image from './Photo/1.jpeg'
 import Footer from './Footer'
 import Header from './Header'
 import './Home.css'
+
 import Projects from './Projects'
+import Contact from './Contact'
 
 export default function Home() {
   return (
@@ -17,6 +19,7 @@ export default function Home() {
  
 
  <Projects/>
+ <Contact/>
 <Footer/>
 
 
