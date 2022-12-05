@@ -15,6 +15,7 @@ export default function Home() {
  <h3>But, Call me Jay.</h3>
  <p>Trying to learn and explore web3</p>
  
+  
  <Projects/>
 <Footer/>
 
