@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from './1.jpeg'
+import Image from './Photo/1.jpeg'
 import Footer from './Footer'
 import Header from './Header'
 import './Home.css'
@@ -15,7 +15,7 @@ export default function Home() {
  <h3>But, Call me Jay.</h3>
  <p>Trying to learn and explore web3</p>
  
-  
+
  <Projects/>
 <Footer/>
 
