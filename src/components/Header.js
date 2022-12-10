@@ -1,9 +1,6 @@
 import React from 'react'
 import './Header.css'
-import Contact from './Contact'
-import About from './About'
-import Onofflight from './Onofflight'
-import Projects from './Projects'
+
 
 function Header() {
   return (
