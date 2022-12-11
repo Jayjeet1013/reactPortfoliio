@@ -13,7 +13,7 @@ export default function Home() {
   return (
 
    <>
-    <Header />  
+    <Header  />  
     <img className='img' alt='prop' src={Image} />
  <h2>I am Jayjeet Kumar </h2>
  <h3>But, Call me Jay.</h3>

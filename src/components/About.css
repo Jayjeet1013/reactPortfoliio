@@ -3,11 +3,11 @@
     padding: 0%;
 }
 
-h2{
- margin-left: 834px;
- margin-bottom: 44px;
-}
-
-h2{
+h2{ 
+    font-size: 56px;
+    margin-left: 834px;
+    margin-bottom: 44px; 
     margin-top: 114px;
 }
+
+

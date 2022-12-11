@@ -5,7 +5,7 @@ import Pro2 from './Photo/Pro2.jpeg'
 export default function Projects() {
   return (
   <>
-     
+     <h2 className='h2pro'>Projects</h2>
     <h3 className='h3pro'>These are my some lovely Projects ever.</h3>
     <div className='proj1'>
      
