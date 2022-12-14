@@ -21,6 +21,15 @@ export default function Projects() {
     <p className='ppro'>This is a Calculator...</p>
     
      </div>
+
+     <div className='proj3'>
+     
+     <img src={Pro3} alt='prop'/>   <a  href='https://jaycalculator.netlify.app/' ><button className='btnprojects'>Link</button></a> <h3>Counter Dapp</h3>
+  
+     <p className='ppro'>This is a COunter dapp...</p>
+     
+      </div>
+    
    
 
   </>
